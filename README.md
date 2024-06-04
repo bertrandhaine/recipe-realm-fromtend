@@ -15,7 +15,6 @@
 - **Pinia**: State management library used with Vue.js to manage the state across the frontend application.
 - **Vite**: A modern frontend build tool that provides a faster and leaner development experience for modern web projects.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
-- **Axios**: A promise-based HTTP client for making requests to the backend server.
 - **Shadcn-Vue**: A component library that provides ready-to-use components that are easy to customize and extend.
 
 ## Prerequisites
